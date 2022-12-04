@@ -1,0 +1,33 @@
+h1{
+    color:rgb(211, 223, 216);
+}
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    background-color:rgb(4, 1, 53);
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+.site-description{
+    display: flex;
+    flex-direction: column;
+}
+.reigames{
+    color:rgb(211, 223, 216);
+}
+.menu{
+    color:rgb(211, 223, 216);
+}
